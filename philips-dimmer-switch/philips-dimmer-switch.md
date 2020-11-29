@@ -64,3 +64,9 @@ OTA
 
 HA Attribute 0x86
 ![HA Attribute 0x86](img/image26.png?raw=true "HA Attribute 0x86")
+
+# Reporting
+Every 15min Battery
+Every 60min Network registration
+Every 60min Powerstate and time report 0x20 (State) 0x21 (Time)
+Every 120min OTA update request
